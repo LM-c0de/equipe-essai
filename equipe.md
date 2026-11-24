@@ -1,5 +1,5 @@
 # Notre équipe
-Devise : à définir
+Devise : on cherche d'abord
 ## Membre A
 lucas : ce que j'aime dans le code
 ## Membre B
