@@ -3,4 +3,4 @@ Devise : à définir
 ## Membre A
 à compléter
 ## Membre B
-à compléter
+Jeremy : Ce que j'aime dans le code
